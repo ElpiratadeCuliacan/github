@@ -1,3 +1,3 @@
 a=40
-b=2
-print(a+b)
+d=51
+print(a+d)
