@@ -1,4 +1,4 @@
 a=40
-b=2
+d=51
 c=50
-print(a+b+c)
+print(a+d+c)
