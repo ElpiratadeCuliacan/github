@@ -1,3 +1,4 @@
 a=40
 b=2
-print(a+b)
+c=50
+print(a+b+c)
